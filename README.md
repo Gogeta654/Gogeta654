@@ -6,22 +6,22 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-🎓 Self-taught engineer with a growing background in:
-- 🔐 **Cybersecurity**
-- 🤖 **Artificial Intelligence** (Harvard CS50 AI - in progress)
-- 🎮 **Game Development** (Unreal Engine - learning)
-- 🌐 **Networking** (from CCNA to CCIE path)
-- ⚛️ **Quantum Computing** (Qiskit, Cirq)
+ Self-taught engineer with a growing background in:
+-  **Cybersecurity**
+-  **Artificial Intelligence** (Harvard CS50 AI - in progress)
+-  **Game Development** (Unreal Engine - learning)
+-  **Networking** (from CCNA to CCIE path)
+-  **Quantum Computing** (Qiskit, Cirq)
 
-💻 Currently skilled in:
+ Currently skilled in:
 - **Languages:** Python, C++, SQL, JavaScript, HTML, CSS, Dart (Flutter), Assembly x86, ARM, JS
 - **Frameworks & Tools:** Flutter, Qiskit, Cirq, Unreal Engine (learning), FreeCodeCamp, CS50
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gogeta654&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -31,15 +31,15 @@
 
 ---
 
-### 🛠️ Projects I'm Focusing On
-- 💡 AI & ML with Python (Neural Networks, NLP, Vision)
-- 🎮 Building my first game using **Unreal Engine 5**
-- 🌐 Networking & Ethical Hacking (Cisco cert path)
-- 🔬 Experimenting with Qiskit + Cirq for quantum algorithms
+###  Projects I'm Focusing On
+-  AI & ML with Python (Neural Networks, NLP, Vision)
+-  Building my first game using **Unreal Engine 5**
+-  Networking & Ethical Hacking (Cisco cert path)
+-  Experimenting with Qiskit + Cirq for quantum algorithms
 
 ---
 
-### 📚 Currently Learning
+###  Currently Learning
 -  Harvard's CS50 AI Course
 -  Unreal Engine for Game Development
 -  Qiskit & Cirq for Quantum Programming
