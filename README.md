@@ -28,7 +28,7 @@
 
 ---
 
-## 🛡️ TryHackMe Dashboard
+## TryHackMe Dashboard
 
 Here’s a collection of the TryHackMe badges I’ve earned:
 
@@ -38,7 +38,7 @@ Here’s a collection of the TryHackMe badges I’ve earned:
 
 ---
 
-## 🔐 Hack The Box Dashboard
+## HackTheBox Dashboard
 
 Badges and stats from my Hack The Box journey:
 
