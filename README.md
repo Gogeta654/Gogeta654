@@ -12,12 +12,12 @@
 -  **Cybersecurity**
 -  **Artificial Intelligence** (Harvard CS50 AI - in progress)
 -  **Game Development** (Unreal Engine - learning)
--  **Networking** (from CCNA to CCIE path)
+-  **Networking** (from CCNA to CCIE path - self learn :-: No Certificate)
 -  **Quantum Computing** (Qiskit, Cirq)
 
  Currently skilled in:
 - **Languages:** Python, C++, SQL, JavaScript, HTML, CSS, Dart (Flutter), Assembly x86, ARM, JS
-- **Frameworks & Tools:** Flutter, Qiskit, Cirq, Unreal Engine (learning), FreeCodeCamp, CS50
+- **Frameworks & Tools:** Flutter, Qiskit(learning), Cirq(learning), Unreal Engine (learning), FreeCodeCamp, CS50
 
 ---
 
@@ -61,8 +61,8 @@ Badges and stats from my Hack The Box journey:
 ###  Projects I'm Focusing On
 -  AI & ML with Python (Neural Networks, NLP, Vision)
 -  Building my first game using **Unreal Engine 5**
--  Networking & Ethical Hacking (Cisco cert path)
--  Experimenting with Qiskit + Cirq for quantum algorithms
+-  Networking & Ethical Hacking (Cisco cert path :-: Self Learn, Bo Certificate)
+-  Experimenting with Qiskit + Cirq for quantum algorithms (learning)
 
 ---
 
@@ -71,5 +71,5 @@ Badges and stats from my Hack The Box journey:
 -  Unreal Engine for Game Development
 -  Qiskit & Cirq for Quantum Programming
 -  ARM & Machine Code Concepts
--  CCNA course (started)
+-  CCNA, CCNP, CCIE course (started)
 ---
