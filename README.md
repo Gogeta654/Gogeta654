@@ -49,6 +49,15 @@ Badges and stats from my Hack The Box journey:
 
 ---
 
+## Certificates
+  
+  #CyberSecurity
+
+[FITA ACADEMY CERTIFICATE](./cybersecurity.pdf)
+
+
+---
+
 ###  Projects I'm Focusing On
 -  AI & ML with Python (Neural Networks, NLP, Vision)
 -  Building my first game using **Unreal Engine 5**
