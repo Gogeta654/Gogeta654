@@ -28,6 +28,27 @@
 
 ---
 
+## 🛡️ TryHackMe Dashboard
+
+Here’s a collection of the TryHackMe badges I’ve earned:
+
+<div align="center">
+  <img src="https://tryhackme.com/img/badges/linux.svg" alt="THM Badge 1" width="150" />
+</div>
+
+---
+
+## 🔐 Hack The Box Dashboard
+
+Badges and stats from my Hack The Box journey:
+
+<div align="center">
+  <img src="" alt="HTB Badge" width="200" />
+  <!-- Add more HTB badges or future ranks here -->
+</div>
+
+---
+
 ###  Projects I'm Focusing On
 -  AI & ML with Python (Neural Networks, NLP, Vision)
 -  Building my first game using **Unreal Engine 5**
