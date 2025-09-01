@@ -78,8 +78,8 @@ Badges and stats from my Hack The Box journey:
 </p>
 
 <p align="center">
-  <a href="CyberSecurity.pdf" target="_blank">
-    <img src="https://img.icons8.com/clouds/400/000000/certificate.png" width="200" alt="CyberSecurity Certificate Icon"/>
+  <a href="AI.pdf" target="_blank">
+    <img src="https://img.icons8.com/clouds/400/000000/certificate.png" width="200" alt="AI Certificate Icon"/>
   </a>
 </p>
 
