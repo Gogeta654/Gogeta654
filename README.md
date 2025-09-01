@@ -43,7 +43,7 @@ Here’s a collection of the TryHackMe badges I’ve earned:
 Badges and stats from my Hack The Box journey:
 
 <div align="center">
-  <img src="" alt="HTB Badge" width="200" />
+  <img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="HTB Badge" width="200" />
   <!-- Add more HTB badges or future ranks here -->
 </div>
 
