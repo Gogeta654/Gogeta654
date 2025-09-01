@@ -49,10 +49,45 @@ Badges and stats from my Hack The Box journey:
 
 ---
 
-<h2 align="center">CERTIFICATES</h2>
+<!-- CyberSecurity Certificate-->
 
-<h1 align="center">CyberSecurity</h1>
-<h2 align="center"><a href="CyberSecurity.pdf">FITA ACADEMY</a></h2>
+<h2 align="center">Certificate Dashboard</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certificate-CyberSecurity-blue?style=for-the-badge&logo=academia&logoColor=white" alt="CyberSecurity Certificate Badge">
+</p>
+
+<p align="center">
+  <a href="CyberSecurity.pdf" target="_blank">
+    <img src="https://img.icons8.com/clouds/400/000000/certificate.png" width="200" alt="CyberSecurity Certificate Icon"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="CyberSecurity.pdf" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px; color: #2a9d8f;">
+    FITA ACADEMY CERTIFICATE
+  </a>
+</p>
+
+---
+
+<!-- AI Certificate-->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certificate-AI-blue?style=for-the-badge&logo=academia&logoColor=white" alt="CyberSecurity Certificate Badge">
+</p>
+
+<p align="center">
+  <a href="CyberSecurity.pdf" target="_blank">
+    <img src="https://img.icons8.com/clouds/400/000000/certificate.png" width="200" alt="CyberSecurity Certificate Icon"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="AI.pdf" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px; color: #2a9d8f;">
+    FITA ACADEMY CERTIFICATE
+  </a>
+</p>
 
 ---
 
