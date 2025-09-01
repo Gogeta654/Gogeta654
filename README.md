@@ -53,8 +53,7 @@ Badges and stats from my Hack The Box journey:
   
   #CyberSecurity
 
-[FITA ACADEMY CERTIFICATE](./CyberSecurity.pdf)
-
+<a href="CyberSecurity.pdf" style="text-decoration: none; color: inherit; user-select: none;" target="_blank">FITA ACADEMY CERTIFICATE</a>
 
 ---
 
