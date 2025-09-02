@@ -16,7 +16,7 @@
 -  **Quantum Computing** (Qiskit, Cirq)
 
  Currently skilled in:
-- **Languages:** Python, C++, SQL, JavaScript, HTML, CSS, Dart (Flutter), Assembly x86, ARM, JS
+- **Languages:** Python, C++, SQL, JavaScript, HTML, CSS, Dart (Flutter), Assembly x86, ARM
 - **Frameworks & Tools:** Flutter, Qiskit(learning), Cirq(learning), Unreal Engine (learning), FreeCodeCamp, CS50
 
 ---
