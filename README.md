@@ -58,12 +58,6 @@ Badges and stats from my Hack The Box journey:
 </p>
 
 <p align="center">
-  <a href="CyberSecurity.pdf" target="_blank">
-    <img src="https://img.icons8.com/clouds/400/000000/certificate.png" width="200" alt="CyberSecurity Certificate Icon"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="CyberSecurity.pdf" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px; color: #2a9d8f;">
     FITA ACADEMY CERTIFICATE
   </a>
@@ -75,12 +69,6 @@ Badges and stats from my Hack The Box journey:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Certificate-AI-blue?style=for-the-badge&logo=academia&logoColor=white" alt="CyberSecurity Certificate Badge">
-</p>
-
-<p align="center">
-  <a href="AI.pdf" target="_blank">
-    <img src="https://img.icons8.com/clouds/400/000000/certificate.png" width="200" alt="AI Certificate Icon"/>
-  </a>
 </p>
 
 <p align="center">
