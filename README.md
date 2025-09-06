@@ -68,7 +68,7 @@ Here are a few of my favorite challenges:
 
 ### My HackerRank Profile
 
-[Visit My HackerRank Profile](https://www.hackerrank.com/lordl1nux76)
+[Visit My HackerRank Profile](https://www.hackerrank.com/AniruddhUniyalCH)
 
 ---
 
