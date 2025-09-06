@@ -28,12 +28,57 @@
 
 ---
 
+##  HackerRank Dashboard
+
+### Stats Summary
+
+| Category             | Status                      |
+|----------------------|-----------------------------|
+|  Total Problems Solved | `0`                    |
+|  Domains Mastered     | `Null` |
+|  Badges Earned       | `Null` |
+|  Highest Score       | `0/0`     |
+|  Rank                | `Null`             |
+
+###  Badges :
+
+[Problem Solving Badge](https://hrcdn.net/community-frontend/assets/badges/problem-solving-96cc4c.svg)<br>
+[Python Badge](https://hrcdn.net/community-frontend/assets/badges/python-b6db8e.svg)<br>
+[C Badge](https://hrcdn.net/community-frontend/assets/badges/c-b4d08f.svg)
+
+###  Domains Overview
+
+| Domain              | Progress      | Level       |
+|---------------------|---------------|-------------|
+| Algorithms          | 0/0       | `Null`         |
+| Data Structures     | 0/0        | `Null`          |
+| Python              | 0/0         | `Null`         |
+| SQL                 | 0/0         | `Null`         |
+| C                   | 0/0         | `Null`           |
+
+### Sample Submissions
+
+Here are a few of my favorite challenges:
+
+-  [IN PROGRESS](https://www.hackerrank.com/challenges/<>/)
+-  [IN PROGRESS](https://www.hackerrank.com/challenges/<>/)
+-  [IN PROGRESS](https://www.hackerrank.com/challenges/<>/)
+
+<!--<> Meaning = challenge name, add after completion-->
+
+### My HackerRank Profile
+
+[Visit My HackerRank Profile](https://www.hackerrank.com/lordl1nux76)
+
+---
+
 ## TryHackMe Dashboard
 
 Here’s a collection of the TryHackMe badges I’ve earned:
 
 <div align="center">
   <img src="https://tryhackme.com/img/badges/linux.svg" alt="THM Badge 1" width="150" />
+  <!-- Add more HTB badges or future ranks here -->
 </div>
 
 ---
