@@ -111,7 +111,7 @@ Badges and stats from my Hack The Box journey:
 <br>
 
 <p align="center">
-  <a href="">Google's Certificate</a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/X7N97TEEC1GG">Google's Certificate</a>
 </p>
 
 ---
