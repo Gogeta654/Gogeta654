@@ -66,10 +66,6 @@ Here are a few of my favorite challenges:
 
 <!--<> Meaning = challenge name, add after completion-->
 
-### My HackerRank Profile
-
-[Visit My HackerRank Profile](https://www.hackerrank.com/AniruddhUniyalCH)
-
 ---
 
 ## TryHackMe Dashboard
