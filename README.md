@@ -108,6 +108,12 @@ Badges and stats from my Hack The Box journey:
   </a>
 </p>
 
+<br>
+
+<p align="center">
+  <a href="">Google's Certificate</a>
+</p>
+
 ---
 
 <!-- AI Certificate-->
