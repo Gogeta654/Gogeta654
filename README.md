@@ -1,7 +1,7 @@
 <h1 align="center">Aniruddh Uniyal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Cybersecurity+Enthusiast;AI+Researcher;Aspiring+Game+Developer;Learning+Quantum+Computing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Cybersecurity+Enthusiast;AI+Researcher;Aspiring+Game+Developer;Learning+Quantum+Computing;Network+engineer;Neura+Link+Researcher" />
 </p>
 
 ---
