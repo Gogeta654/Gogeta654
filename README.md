@@ -25,8 +25,30 @@ Currently skilled in:
 
 ### LeetCode Stats  
 
+# World Record Journey: LeetCode in a Week
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Math%20%26%20Algorithms-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Challenge-LeetCode%20Top%20200-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-World%20Record%20-red?style=for-the-badge" />
+</p>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AniruddhUniyal?theme=light&font=Baloo&ext=heatmap)  
 
+## Mission
+
+- Crack *Maths + Algorithms*  
+- Solve *Top 200 LeetCode Questions* in *7 days*  
+- Push progress to GitHub daily  
+- Secure a *World Record Certificate + Medal* 
+
+---
+
+<p align="center">
+  <i>"Not just solving problems, but rewriting the definition of speed and skill."</i>
+</p>
+
+---
 ---
 
 ## HackerRank Dashboard  
@@ -41,11 +63,6 @@ Currently skilled in:
 | Highest Score        | 0/0           |
 | Rank                 | Null          |
 
-### Badges  
-
-<img src="https://hrcdn.net/community-frontend/assets/badges/problem-solving-96cc4c.svg" width="100" />  
-<img src="https://hrcdn.net/community-frontend/assets/badges/python-b6db8e.svg" width="100" /> <img src="https://hrcdn.net/community-frontend/assets/badges/c-b4d08f.svg" width="100" />  
-
 ### Domains Overview  
 
 | Domain          | Progress | Level  |
@@ -55,13 +72,6 @@ Currently skilled in:
 | Python          | 0/0      | Null |
 | SQL             | 0/0      | Null |
 | C               | 0/0      | Null |
-
-### Sample Submissions  
-
-Here are a few of my favorite challenges:  
-- [IN PROGRESS](https://www.hackerrank.com/challenges/<>/)  
-- [IN PROGRESS](https://www.hackerrank.com/challenges/<>/)  
-- [IN PROGRESS](https://www.hackerrank.com/challenges/<>/)  
 
 ---
 
@@ -91,7 +101,7 @@ Badges and stats from my Hack The Box journey:
 
 <br>  
 
-<a href="https://www.coursera.org/account/accomplishments/verify/X7N97TEEC1GG">Google's Certificate</a>  
+<a href="https://www.coursera.org/account/accomplishments/verify/X7N97TEEC1GG"><b>Google's Certificate</b></a>  
 
 ---
 
@@ -121,5 +131,4 @@ Badges and stats from my Hack The Box journey:
 - CCNA, CCNP, CCIE course (started)
 
 ---
-
 </div>
