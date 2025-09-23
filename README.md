@@ -81,6 +81,7 @@ Here’s a collection of the TryHackMe badges I’ve earned:
 
 <img src="https://tryhackme.com/img/badges/linux.svg" alt="THM Badge 1" width="150" />  
 <img src="https://tryhackme.com/img/badges/webbed.svg" alt="THM Badge 1" width="150" />
+<img src="https://tryhackme.com/img/badges/soc-sim-first-alert-closed.svg" alt="THM Badge 1" width="150" />
 
 ---
 
