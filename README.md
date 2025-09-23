@@ -77,6 +77,8 @@ Currently skilled in:
 
 ## TryHackMe Dashboard  
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/AniruddhUniyal.png" alt="Your Image Badge" />
+
 Here’s a collection of the TryHackMe badges I’ve earned:  
 
 <img src="https://tryhackme.com/img/badges/linux.svg" alt="THM Badge 1" width="150" />  
