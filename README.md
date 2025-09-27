@@ -107,12 +107,6 @@ Badges and stats from my Hack The Box journey:
 
 <a href="https://www.coursera.org/account/accomplishments/verify/X7N97TEEC1GG"><b>Google's Certificate</b></a>
 
-<br>
-
-<a href="https://www.coursera.org/account/accomplishments/verify/TC79JD5FITN6"><b>IBM's Certificate</b></a>
-
-<br>  
-
 ---
 
 <img src="https://img.shields.io/badge/Certificate-AI-blue?style=for-the-badge&logo=academia&logoColor=white" alt="AI Certificate Badge">  
@@ -120,6 +114,13 @@ Badges and stats from my Hack The Box journey:
 <a href="AI.pdf" target="_blank">
   <b>FITA ACADEMY CERTIFICATE</b>
 </a>  
+
+---
+
+<img src="https://img.shields.io/badge/Certificate-NETWORKING-blue?style=for-the-badge&logo=academia&logoColor=white" alt="NETWORKING Certificate Badge">
+<br>
+<a href="https://www.coursera.org/account/accomplishments/verify/TC79JD5FITN6"><b>IBM's Certificate</b></a>
+<br>
 
 ---
 
