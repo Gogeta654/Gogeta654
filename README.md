@@ -23,34 +23,6 @@ Currently skilled in:
 
 ---
 
-### LeetCode Stats  
-
-# World Record Journey: LeetCode in a Week
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Math%20%26%20Algorithms-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Challenge-LeetCode%20Top%20200-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-World%20Record%20-red?style=for-the-badge" />
-</p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/AniruddhUniyal?theme=light&font=Baloo&ext=heatmap)  
-
-## Mission
-
-- Crack *Maths + Algorithms*  
-- Solve *Top 200 LeetCode Questions* in *7 days*  
-- Push progress to GitHub daily  
-- Secure a *World Record Certificate + Medal* 
-
----
-
-<p align="center">
-  <i>"Not just solving problems, but rewriting the definition of speed and skill."</i>
-</p>
-
----
----
-
 ## HackerRank Dashboard  
 
 ### Stats Summary  
