@@ -14,7 +14,7 @@ Self-taught engineer with a growing background in:
 - *Cybersecurity*  
 - *Artificial Intelligence* (Harvard CS50 AI - in progress)  
 - *Game Development* (Unreal Engine - learning)  
-- *Networking* (from CCNA to CCIE path - self learn :-: No Certificate)  
+- *Networking* (from CCNA to CCIE and CCDE path - self learn :-: Certified  
 - *Quantum Computing* (Qiskit, Cirq)  
 
 Currently skilled in:  
